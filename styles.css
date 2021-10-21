@@ -1,0 +1,48 @@
+.mainheader {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 4.5rem;
+  padding: 3rem 0;
+  margin-top: 0;
+  background-color: #A7EFE9;
+}
+
+.compliment1 {
+  font-family: 'Barrio', cursive;
+}
+
+.compliment2 {
+
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.compliment3 {
+  font-family: 'Rampart One', cursive;
+}
+
+.compliment4 {
+font-family: 'Andada Pro', serif;
+font-weight: 600;
+}
+
+table {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 2.7rem;
+  border-spacing: 30px;
+  margin-bottom: 5rem;
+}
+
+.directions {
+  font-style: italic;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 7rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #D7EAEA;
+    padding: 3rem 0;
+    margin-bottom: 0;
+}
